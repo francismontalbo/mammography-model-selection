@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "Apple-ML-FastViT-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/apple/ml-fastvit/main/LICENSE",
+    "sha256": "b621c8500147987044c1ce3f7c524f09e804e3ec4dbdb3d06db16cfbd4c60697",
+    "bytes": 2666,
+    "retrieved_utc": "2026-10-26T13:23:20.897203+00:00"
+  },
+  {
+    "filename": "Apple-ML-FastViT-ACKNOWLEDGEMENTS.txt",
+    "source_url": "https://raw.githubusercontent.com/apple/ml-fastvit/main/ACKNOWLEDGEMENTS",
+    "sha256": "f2347dec17946d74f6269a6fa429032f76c9e5e6389af15ad42a66978f031d95",
+    "bytes": 37036,
+    "retrieved_utc": "2026-10-26T13:23:21.302763+00:00"
+  },
+  {
+    "filename": "OpenAI-CLIP-LICENSE.txt",
+    "source_url": "https://raw.githubusercontent.com/openai/CLIP/3b473b0e682c091a9e53623eebc1ca1657385717/LICENSE",
+    "sha256": "987e63b32f6c89ff5160e429458a872ff048e6860b590a3912e938f9da8f14db",
+    "bytes": 1064,
+    "retrieved_utc": "2026-10-26T13:23:21.645813+00:00"
+  }
+]

@@ -1,0 +1,708 @@
+{
+  "version": "v1.0.0",
+  "date": "2026-10-26",
+  "assets": [
+    {
+      "file": "Supplementary_Evidence_Base.zip",
+      "original_file": "Supplementary_Evidence_Base.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 1876228,
+      "sha256": "737d9f3060f7c01c76b83eb313bb463456fd0a1c37e4b1def5f00da30d18dfac",
+      "original_sha256": "737d9f3060f7c01c76b83eb313bb463456fd0a1c37e4b1def5f00da30d18dfac",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Evidence_Base.zip"
+    },
+    {
+      "file": "Supplementary_Evidence_Addendum_V25.zip",
+      "original_file": "Supplementary_Evidence_Addendum_V25.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 2639146,
+      "sha256": "17d48c236910eba8936f017f61efe3d1501644377e49443130b361946cbbacdd",
+      "original_sha256": "17d48c236910eba8936f017f61efe3d1501644377e49443130b361946cbbacdd",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Evidence_Addendum_V25.zip"
+    },
+    {
+      "file": "Supplementary_Cohort_Derivation_Verification.zip",
+      "original_file": "Supplementary_Cohort_Derivation_Verification.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 1057823,
+      "sha256": "3c9bd76c15ecacf9ce907a8c09b5478b9c18bab7a5793b4bceb1ba0ba1cde48f",
+      "original_sha256": "3c9bd76c15ecacf9ce907a8c09b5478b9c18bab7a5793b4bceb1ba0ba1cde48f",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Cohort_Derivation_Verification.zip"
+    },
+    {
+      "file": "Supplementary_Prediction_Analysis_Reproduction.zip",
+      "original_file": "Supplementary_Prediction_Analysis_Reproduction.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 38783029,
+      "sha256": "6b6a71dfd7bbbca784b33dd7caf96cc51e038585357139e3cbb254aa761fb727",
+      "original_sha256": "6b6a71dfd7bbbca784b33dd7caf96cc51e038585357139e3cbb254aa761fb727",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Prediction_Analysis_Reproduction.zip"
+    },
+    {
+      "file": "Supplementary_MIAS_INbreast_Training_Source.zip",
+      "original_file": "Supplementary_MIAS_INbreast_Training_Source.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 774433,
+      "sha256": "1d554940e7d8d8bfda5caebe87e14e4c8d902214e7abfbf6f6df5aabc8ba5f19",
+      "original_sha256": "1d554940e7d8d8bfda5caebe87e14e4c8d902214e7abfbf6f6df5aabc8ba5f19",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_MIAS_INbreast_Training_Source.zip"
+    },
+    {
+      "file": "Supplementary_Within_Fold_AUROC_Sensitivity.zip",
+      "original_file": "Supplementary_Within_Fold_AUROC_Sensitivity.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 1220222,
+      "sha256": "92dc84ad03bbe2d605dc24654e14f09a0939eda181dda0638a0450480d931b80",
+      "original_sha256": "92dc84ad03bbe2d605dc24654e14f09a0939eda181dda0638a0450480d931b80",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Within_Fold_AUROC_Sensitivity.zip"
+    },
+    {
+      "file": "Supplementary_MIAS_Decision_Rule_Sensitivity.zip",
+      "original_file": "Supplementary_MIAS_Decision_Rule_Sensitivity.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 1309456,
+      "sha256": "def8e4066233c44752370754eaa4a8d0a75d4f458150e53f3efbc9faba914eb5",
+      "original_sha256": "def8e4066233c44752370754eaa4a8d0a75d4f458150e53f3efbc9faba914eb5",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_MIAS_Decision_Rule_Sensitivity.zip"
+    },
+    {
+      "file": "Supplementary_XAI_Location_Prior_Sensitivity_Public_Subset.zip",
+      "original_file": "Supplementary_XAI_Location_Prior_Sensitivity.zip",
+      "scope": "partial_public_subset",
+      "bytes": 449322,
+      "sha256": "a59b90b31ba80b39162c5e6cd37e2c314ac6e7ca71a44629aab26cebf13efa6d",
+      "original_sha256": "ccb68b168485c2024838ed87036770e2f289b0b7dc8a774fe828604db353d8bf",
+      "omitted_members": [
+        {
+          "path": "Supplementary_XAI_Location_Prior_Sensitivity/inputs/arrays.npz",
+          "bytes": 1696716,
+          "sha256": "96ad377b6f34c9ada6400597b812f44f5cfd233782d6c8624cbbfe2cb2b72e62"
+        },
+        {
+          "path": "Supplementary_XAI_Location_Prior_Sensitivity/results/atlases.npz",
+          "bytes": 44021,
+          "sha256": "9888a0e9cd7550264bfdd335e5dc05fdb09a9d68c7b3ad11cf2d2a17f06b075e"
+        }
+      ],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_XAI_Location_Prior_Sensitivity_Public_Subset.zip"
+    },
+    {
+      "file": "Supplementary_Seed_Pair_Agreement_Public_Subset.zip",
+      "original_file": "Supplementary_Seed_Pair_Agreement.zip",
+      "scope": "partial_public_subset",
+      "bytes": 2139287,
+      "sha256": "ab4e4c5958b3893660e0329a1c243034d39b5b59e30bc7bba25bf7d4ecd3f5a2",
+      "original_sha256": "398d75b9959dffe46c0a179a0b86c7ddf1b03acad2b74a1beadeb1a9aae7f3b5",
+      "omitted_members": [
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20586934.npy",
+          "bytes": 50304,
+          "sha256": "c1a1618cd13dbea4189796dedcc16bd8bf966ac0a09bf0f9f036f472e342bb9f"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20586986.npy",
+          "bytes": 50304,
+          "sha256": "e180e1cd64748063e25cf83ff545412b2a544948bcebb6ccdcd29ffcf090fe34"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20587054.npy",
+          "bytes": 50304,
+          "sha256": "3fa29fd61f83dcf35c625b6f885dfe64083f6268bdac8cee40f3dc591dd3a730"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20587080.npy",
+          "bytes": 50304,
+          "sha256": "106866ff766c0ff717d1bbcce02da42e3a30ab259c1fbc7c75f8f397c1dc64a8"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20587612.npy",
+          "bytes": 50304,
+          "sha256": "210a4ffb6c5a170013eba90516e335902e5b9e00063748efb5ed7e926ffab4f5"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20587664.npy",
+          "bytes": 50304,
+          "sha256": "e07eec24634bba4b32bddf99f1c53540a843800777b30a00d53c4db308664c73"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20587994.npy",
+          "bytes": 50304,
+          "sha256": "3ad2ca19f13965e760de072bab799484d990451dddca3db5989423ffa03d772f"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20588046.npy",
+          "bytes": 50304,
+          "sha256": "cbd47a8a119534d284e2e48c12e17cf31a045f6c4db899287e1e4d483faa8039"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20588190.npy",
+          "bytes": 50304,
+          "sha256": "552d64ec2e963b6ee1f32cc4c3447a9a409e5aa2d15d4f389fba50c266bc2445"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20588216.npy",
+          "bytes": 50304,
+          "sha256": "e7e13321cd7f29f77c96b6140b6d72bd6f1658a0d73229557fe2bb618798b3ed"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20588536.npy",
+          "bytes": 50304,
+          "sha256": "2ebe1ee9b0105f97b72eabc079c54920ec0e637d102e8abc4b465f33a7f032a5"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__20588562.npy",
+          "bytes": 50304,
+          "sha256": "abe06bf3ecb815ea680598c16a5ad5ab9e3fbd66925567aebe457abaa70bcb2e"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22427705.npy",
+          "bytes": 50304,
+          "sha256": "8e2196e4f1aafc5d6063f7dfd760a41cf5df2f3e32f24bd74242291b24824a1b"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22427751.npy",
+          "bytes": 50304,
+          "sha256": "c166d6f3ef1b5f28e1b562ed6a1dd8b2078f26e1adc87e82b861618474c249a8"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22427840.npy",
+          "bytes": 50304,
+          "sha256": "9d12b2bf2c3ade310a30e00732c0c6cb6bb9a884708eb181075604447be40215"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22579730.npy",
+          "bytes": 50304,
+          "sha256": "16b7fd96656cb80c991ddc62383837feca6030f63a35058887d0d57fa050987c"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22579870.npy",
+          "bytes": 50304,
+          "sha256": "b9e1b192d369d046a741ab3b84979f328822e91bd035a47793e6c2d682167ec5"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22579916.npy",
+          "bytes": 50304,
+          "sha256": "467a64c2a2997e5790563ef04ffc5b93a1592c7b318305a380bd107086822d4a"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22580038.npy",
+          "bytes": 50304,
+          "sha256": "30dfd44e7c679e1344f56935195bf53bdf9666356f82aff9123d509079e56553"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22580098.npy",
+          "bytes": 50304,
+          "sha256": "c5ba0495a9a4cb6519adf65cde857c742c03d095110ec020ea5893c66d4f7f59"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22580520.npy",
+          "bytes": 50304,
+          "sha256": "a4d0ac1f2c760d4d3073da1198341d6c4c3e53748eb85b45801fb4e8844ca8c9"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22580576.npy",
+          "bytes": 50304,
+          "sha256": "78090746d7ed019f3b504285102271ce678bd32845aa14fff66ca704f548af8e"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22580654.npy",
+          "bytes": 50304,
+          "sha256": "8b5f0f9e85d10a1a3944531b10f03c5f28ab83df28caf6327983c020c2db0a49"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22580706.npy",
+          "bytes": 50304,
+          "sha256": "87b016d8099c048812680258a4654b4a91e713c4be9c6d2c8b78cd32546c7c9c"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22613650.npy",
+          "bytes": 50304,
+          "sha256": "75c3e9d5f60dd3d20d932e4174742f53bad6344cdf71c4dcd3c82ace5d20683c"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22613702.npy",
+          "bytes": 50304,
+          "sha256": "03579661c5c2918a635ca2aabbb722add47be80c1529475fc00b7aa6c855cb9d"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22613770.npy",
+          "bytes": 50304,
+          "sha256": "936a7fcec8a9f4f698daad90d53b13847fed2623a82cb15065fd8535e5bcf510"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22613822.npy",
+          "bytes": 50304,
+          "sha256": "512449f7afc36fa54baed048af9b20282e3ae2a86801f6d4b085454424bf195b"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22613918.npy",
+          "bytes": 50304,
+          "sha256": "110ee2ceaa1c2390f50ebc02a90f5e96f4282d1b61415f6c3cde78d7fc728e2c"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22613970.npy",
+          "bytes": 50304,
+          "sha256": "e9208db263febafed6eb79c16bf39a5d84c7f9b70731da2a25044ad15d65b439"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614074.npy",
+          "bytes": 50304,
+          "sha256": "a64d2dcbce27d72cfd70e3ed87534bceb3e18807d150bd1ab7e9ff5a365cd824"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614127.npy",
+          "bytes": 50304,
+          "sha256": "0d9e98a362882af00f8464a906c7330ec3d859d055b5d1f710ee87952d086eb8"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614236.npy",
+          "bytes": 50304,
+          "sha256": "d90d604b2c66744616a4bc4c2ce069a72aee7020c561414539140120059f9007"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614266.npy",
+          "bytes": 50304,
+          "sha256": "c8e7e86917b8b53abe32709150bb0eb63658b84834407b1beb711c49944eadf9"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614379.npy",
+          "bytes": 50304,
+          "sha256": "ef6652e0a0e330968807a131b9f410efb541123bd6cf482b915ace4858f5900b"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614431.npy",
+          "bytes": 50304,
+          "sha256": "2455c9da184dfedc9c59caa252043d57413013a9cfeb1783009ab1147fa99898"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614522.npy",
+          "bytes": 50304,
+          "sha256": "fd59a08e72e8c38c18d0cb4ecab5eb3f2ecfeec7383af13d5e858ebbfc9694c1"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22614568.npy",
+          "bytes": 50304,
+          "sha256": "8587c1e2dbffc3e08fd4833b60d1d0be8396076e4444d6da8bd87282a8fed2e0"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670094.npy",
+          "bytes": 50304,
+          "sha256": "ed29436ab8bb5ebba32ae9e6ed013070a585103e2cfbde7a0b6d373968d8a1f9"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670147.npy",
+          "bytes": 50304,
+          "sha256": "ac579b44119f9e8491868c71f1702e393da0a4f3cef2b9957b03b234ef45797c"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670278.npy",
+          "bytes": 50304,
+          "sha256": "d424189f7e3f9e8bf8f9c5c05257894852326dbd5ea89bbcd1c78cffb0259684"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670324.npy",
+          "bytes": 50304,
+          "sha256": "de240adfbf2127f58704dbeefa73f853b057e0f47070bfbfa50c09480b9eda27"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670465.npy",
+          "bytes": 50304,
+          "sha256": "b715461c3fae45823c190a9a2b757d821de9ea4cc91ef7eea065935c8bda5298"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670511.npy",
+          "bytes": 50304,
+          "sha256": "559b7a50031db265299d44717fdb0e502029d911a2239e4b5aedb15baf49d994"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670809.npy",
+          "bytes": 50304,
+          "sha256": "cbb720bba55aa0a5d96fadde0d77d803502ff8f5d898e52ab90d35d647e7e54e"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670855.npy",
+          "bytes": 50304,
+          "sha256": "89c536cca3de48302efd427ef1cffc806b497af1df48a38dd1240e09c9845e0c"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22670978.npy",
+          "bytes": 50304,
+          "sha256": "1cd511f97abde9eb45d11ef0416fa00300be3098ddda04dcb4df2569ef8b9841"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22671003.npy",
+          "bytes": 50304,
+          "sha256": "2de5af54ee527a02de8d73f0ff90298714ea1f25d4556308ed745dbf984ec9f1"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22678953.npy",
+          "bytes": 50304,
+          "sha256": "443893f8b1fac5305aae503162dc9ee06e697f83efc02469a1ad0065eb12765d"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__22679008.npy",
+          "bytes": 50304,
+          "sha256": "cea642217f23972a668121218bcd0a0d16e791e9fc73b5d87b6dd3b750bde163"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055149.npy",
+          "bytes": 50304,
+          "sha256": "03df01c5e979febcc3c1def83523ff80108986513bee616d0996b2f21d9ed88e"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055203.npy",
+          "bytes": 50304,
+          "sha256": "6af69b90c48186c1aea67a4a3ea2863658a831a1254aad2ec7f5d6f32b8a00ea"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055274.npy",
+          "bytes": 50304,
+          "sha256": "aa04f1c4b6a49b5a6b78c7edf4a650de05e83a631cde0d428c72ccacf0e6a3db"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055355.npy",
+          "bytes": 50304,
+          "sha256": "a69b6d71bb1b3041ca56337818ac0386401518bfa498a90027626085cfb7e3c3"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055445.npy",
+          "bytes": 50304,
+          "sha256": "c15669b4b5f5396e3477f1fb0a97195651bf7547254ab8da58c7c0972decd94d"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055464.npy",
+          "bytes": 50304,
+          "sha256": "ad4f491b2e0cbbe163866cda8f17f859aa688c06e6d44d6c650a67cd1b242dc7"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055483.npy",
+          "bytes": 50304,
+          "sha256": "db4317734993127ceec99b69b0842ec81259fe8da5cd2bda2ac7645c8b65fac6"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055502.npy",
+          "bytes": 50304,
+          "sha256": "4c79841b8f19ddd9808766b73cf330ed13d7afa82f2e16a8de2723b51d7d51d7"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055600.npy",
+          "bytes": 50304,
+          "sha256": "92d86d03e6d9693708a42bb021d6f9a9ace84dae09132ef65b18bcd313c90d34"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24055654.npy",
+          "bytes": 50304,
+          "sha256": "b19aeacc70e0394650dbb6d33cbd062addb45985433269e0185288a93dceb658"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24058686.npy",
+          "bytes": 50304,
+          "sha256": "a5b7c640fe89eb264141bb15c70ad35bcdb86da3315351386bac1b904fbc5c1f"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24058738.npy",
+          "bytes": 50304,
+          "sha256": "425530fe644660ecb3b5df6408d5aa1bd1f809bc82492bfab4a53bfc54c6764e"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065251.npy",
+          "bytes": 50304,
+          "sha256": "c0f5a3d1e827cfb7245943a51887acdba2b635ee12f5f0e2f497619fffd1fafd"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065289.npy",
+          "bytes": 50304,
+          "sha256": "60afecf8224f78410718f9192a40544c27381b73c2d60ee3e011a481c8788ac3"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065407.npy",
+          "bytes": 50304,
+          "sha256": "0624f80f0e5f93a61caa8169eafb6a20113ac323ce670a2f937df9af29addc41"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065461.npy",
+          "bytes": 50304,
+          "sha256": "624226a7faccda1a1578fec7de874e7313a34d3a654f4a7a9ee495acbd4d6f7e"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065530.npy",
+          "bytes": 50304,
+          "sha256": "5c3611f85aaaee905310cd197306b7f843deb6b59d839cbce3c8ba79bee6e6f9"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065584.npy",
+          "bytes": 50304,
+          "sha256": "0abfa6c70e792235fb55bdbb038756e4308acb577b73645e485e48297005bf2a"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065707.npy",
+          "bytes": 50304,
+          "sha256": "cf44c0634e92a414b73d417665fdec11624623d004c3b32868123106d633627b"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__24065761.npy",
+          "bytes": 50304,
+          "sha256": "976dd19d05a0a8b18065be3798c0bbd98bcbeaea7e04bc274079db691933feef"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__26933801.npy",
+          "bytes": 50304,
+          "sha256": "84153dc7e2df04bbd707b3966e7ade63b02a8c6ba66ea8d283ab6028195b9268"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__26933859.npy",
+          "bytes": 50304,
+          "sha256": "e57be26e1f5aa496f48ef816b699285e1077b24fd01e43e76bb091d37855a047"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__27829134.npy",
+          "bytes": 50304,
+          "sha256": "0c3d474691291b8a3c60849f2821e24fa7227f63886cc7f72df46951e8afd03b"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__27829188.npy",
+          "bytes": 50304,
+          "sha256": "c0658831459a4daadbf26f26fac25fef95ef741aee977cf75440d9d7cf786601"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__30011507.npy",
+          "bytes": 50304,
+          "sha256": "4dd9bfb0be0cd17ce7c6dadfa198822beb6f09e70f1b81da8ba6b49e5ef898f2"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__30011553.npy",
+          "bytes": 50304,
+          "sha256": "8c762d63c44865f88be87cd0b64201243f6ef94dc78be7ad36709e75def00784"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__30011674.npy",
+          "bytes": 50304,
+          "sha256": "7173650269081ca4305119d098029eabab1d331140b77ebf9046c7234ab1ea2d"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__30011727.npy",
+          "bytes": 50304,
+          "sha256": "f38f041f14413bcb601d1213902254be8ce79ce610fd4c4cc87266b087e3a860"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__30011824.npy",
+          "bytes": 50304,
+          "sha256": "1f4f07be39bb850ee1ef46c89266f70920a02b563278a62dd71cd4c79e304a16"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__30318067.npy",
+          "bytes": 50304,
+          "sha256": "91d20fe822b0a9b5f8109c3420b054a86a6c31cd1e8b30483917b377a065cfbd"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50994273.npy",
+          "bytes": 50304,
+          "sha256": "98244f62bfb15e476dfa31901f7a1f3ac573b6933ec96cdfd57c2fa6871c1790"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50994354.npy",
+          "bytes": 50304,
+          "sha256": "4c267df99fc0307e898f191d7b48056e3a817c8b189c553e075c72c90e269269"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50994841.npy",
+          "bytes": 50304,
+          "sha256": "28fe631509585bb15ec75f8e9f179892e4ee48d723ef805e207e4f88597429c0"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50994895.npy",
+          "bytes": 50304,
+          "sha256": "d10fe448343ccdb5f4c1677c7caf7526a02c13f087b467f5bb3ca4d0cfeb1be4"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50996352.npy",
+          "bytes": 50304,
+          "sha256": "55161ed47b4674a1cf6b686a00d6624d806c6ef39fecd18074daa22d750b8205"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50996406.npy",
+          "bytes": 50304,
+          "sha256": "98bcaafa178d59387dbff197b260c903f2b3312ce57ea11558dc0c95a578b6d9"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50997461.npy",
+          "bytes": 50304,
+          "sha256": "1665a9e1c454d7b949cb76dbcbc9b468965c8f1331f6d4ff7f4927506baaaf2a"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50997515.npy",
+          "bytes": 50304,
+          "sha256": "86d6111e1312b778e04e32b1fcdab9eb63e4e213cc2f0c40385d37516dcebb14"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50998981.npy",
+          "bytes": 50304,
+          "sha256": "f7490d0cdc148073dd43e5c2d3eef1a89334e9de0a7f95c4e911a02334de3e89"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50999008.npy",
+          "bytes": 50304,
+          "sha256": "fa2e62ba95e444e5d99854f01a695edbf93a3216f28ef1ddbe02687b653f82a2"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50999432.npy",
+          "bytes": 50304,
+          "sha256": "bd28b9b88ca1455cc0c0236ab6452554b3514cf3e1bd5a5436ce7689db2d6d58"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__50999459.npy",
+          "bytes": 50304,
+          "sha256": "d9630afa932e8f7e6d85dd7aee8176218dfe3a3ee93ed54b3ee4f794d6d626c6"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__53580804.npy",
+          "bytes": 50304,
+          "sha256": "0afb1902b3683a645be9543b7df1ac60832d020fcbed98d0d91a48d038aa8cb8"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__53580858.npy",
+          "bytes": 50304,
+          "sha256": "fe269df077c3738679ddd020261422d3c4191eda65025db4657a09d260e47078"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__53581406.npy",
+          "bytes": 50304,
+          "sha256": "c2270ca3cd6070d66533d261fa900a4e021b1e4f8f60a6096c001b3a9ac9be93"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__53581460.npy",
+          "bytes": 50304,
+          "sha256": "8864400e2aafdfe4f90f8284c5469760adb256e760e627d5051b43df0366a3c1"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__53582656.npy",
+          "bytes": 50304,
+          "sha256": "d3c66d0383e996305e5e745c37f4b442caebb90ca38cd242a7b4f0986b9b3a89"
+        },
+        {
+          "path": "Supplementary_Seed_Pair_Agreement/inputs/domains/inbreast__53582683.npy",
+          "bytes": 50304,
+          "sha256": "768ff7ad4701e0b261144d00e1b5d57788f28a8097b788e5f8b2b92487c34e87"
+        }
+      ],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Seed_Pair_Agreement_Public_Subset.zip"
+    },
+    {
+      "file": "Supplementary_Fitted_Predictor_Timing.zip",
+      "original_file": "Supplementary_Fitted_Predictor_Timing.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 157052,
+      "sha256": "a0cbb51b3b69912c77e7610269e506ab2ea10763ce17793b88515beabad437fd",
+      "original_sha256": "a0cbb51b3b69912c77e7610269e506ab2ea10763ce17793b88515beabad437fd",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Fitted_Predictor_Timing.zip"
+    },
+    {
+      "file": "Supplementary_CBIS_Training_Sensitivity.zip",
+      "original_file": "Supplementary_CBIS_Training_Sensitivity.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 511135,
+      "sha256": "2f8299aabd226b0682e4cd7872709e3ffe40209c81238901dbf8dbfb368b6a07",
+      "original_sha256": "2f8299aabd226b0682e4cd7872709e3ffe40209c81238901dbf8dbfb368b6a07",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_CBIS_Training_Sensitivity.zip"
+    },
+    {
+      "file": "Supplementary_CBIS_Adjusted_Test_Sensitivity.zip",
+      "original_file": "Supplementary_CBIS_Adjusted_Test_Sensitivity.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 228623,
+      "sha256": "170377dec72b0e22401b9567bde8c9cdb9f6f81f3406f19dfd5414547bc46526",
+      "original_sha256": "170377dec72b0e22401b9567bde8c9cdb9f6f81f3406f19dfd5414547bc46526",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_CBIS_Adjusted_Test_Sensitivity.zip"
+    },
+    {
+      "file": "Supplementary_CBIS_Operating_Point_Sensitivity.zip",
+      "original_file": "Supplementary_CBIS_Operating_Point_Sensitivity.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 3736472,
+      "sha256": "256601ef431a4b3aa9f6fcfda19850cd3e836a3c4e6e4d54987cfb9765b8dcb3",
+      "original_sha256": "256601ef431a4b3aa9f6fcfda19850cd3e836a3c4e6e4d54987cfb9765b8dcb3",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_CBIS_Operating_Point_Sensitivity.zip"
+    },
+    {
+      "file": "Supplementary_MCC_Reporting_Addendum.zip",
+      "original_file": "Supplementary_MCC_Reporting_Addendum.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 267302,
+      "sha256": "1b855deae9d7c15ad1e7c1cfc4a3bc5525a7c1843dbd59d2d4ab1ca83334fa43",
+      "original_sha256": "1b855deae9d7c15ad1e7c1cfc4a3bc5525a7c1843dbd59d2d4ab1ca83334fa43",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_MCC_Reporting_Addendum.zip"
+    },
+    {
+      "file": "Supplementary_Explanatory_Diagnostics.zip",
+      "original_file": "Supplementary_Explanatory_Diagnostics.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 560390,
+      "sha256": "4b7bc59478179bef69e8cfc45fde4837a01ff53851513d535fcb414caa3fac9f",
+      "original_sha256": "4b7bc59478179bef69e8cfc45fde4837a01ff53851513d535fcb414caa3fac9f",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Explanatory_Diagnostics.zip"
+    },
+    {
+      "file": "Supplementary_Precision_Diagnostic.zip",
+      "original_file": "Supplementary_Precision_Diagnostic.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 29729,
+      "sha256": "34d6c946929ae4591d97f00a07a09367f7763c259f01b0bb562f712a7dd88255",
+      "original_sha256": "34d6c946929ae4591d97f00a07a09367f7763c259f01b0bb562f712a7dd88255",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Precision_Diagnostic.zip"
+    },
+    {
+      "file": "Supplementary_Checkpoint_Precision_Normalization.zip",
+      "original_file": "Supplementary_Checkpoint_Precision_Normalization.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 17068810,
+      "sha256": "346a768b69281d59d0d08079364e5aeeab83d016c44cbe0a3832e10e15079e2b",
+      "original_sha256": "346a768b69281d59d0d08079364e5aeeab83d016c44cbe0a3832e10e15079e2b",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Checkpoint_Precision_Normalization.zip"
+    },
+    {
+      "file": "Supplementary_CBIS_Figure_Source.zip",
+      "original_file": "Supplementary_CBIS_Figure_Source.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 1037019,
+      "sha256": "c9f02a9de318fe72ee419211052a2e57fbbf402df44ff68827c9eb1969cefbc5",
+      "original_sha256": "c9f02a9de318fe72ee419211052a2e57fbbf402df44ff68827c9eb1969cefbc5",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_CBIS_Figure_Source.zip"
+    },
+    {
+      "file": "Supplementary_Classification_Figure_Source.zip",
+      "original_file": "Supplementary_Classification_Figure_Source.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 15151,
+      "sha256": "4a644699150c0b63aebd175c901159c298120aa9273d76945ff2fa9231d7ace4",
+      "original_sha256": "4a644699150c0b63aebd175c901159c298120aa9273d76945ff2fa9231d7ace4",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Classification_Figure_Source.zip"
+    },
+    {
+      "file": "Supplementary_Results_Atlas_Source.zip",
+      "original_file": "Supplementary_Results_Atlas_Source.zip",
+      "scope": "unchanged_original_archive",
+      "bytes": 658388,
+      "sha256": "62e10f8c85ef1234c485caf55f9162423c57e153bb337ac872852ab13f9a52dc",
+      "original_sha256": "62e10f8c85ef1234c485caf55f9162423c57e153bb337ac872852ab13f9a52dc",
+      "omitted_members": [],
+      "url": "https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Results_Atlas_Source.zip"
+    }
+  ]
+}

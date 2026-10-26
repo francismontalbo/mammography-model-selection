@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this repository with its release version when using the code or derived numerical evidence."
+type: software
+title: "Mammography model selection: code and derived numerical evidence"
+authors:
+  - family-names: "Montalbo"
+    given-names: "Francis Jesmar P."
+  - family-names: "Balahadia-Mortel"
+    given-names: "Ana Pholyn"
+version: "1.0.0"
+date-released: "2026-10-26"
+repository-code: "https://github.com/francismontalbo/mammography-model-selection"
+url: "https://github.com/francismontalbo/mammography-model-selection/releases/tag/v1.0.0"
+keywords:
+  - mammography
+  - deep learning
+  - model selection
+  - reproducibility
+  - occlusion
