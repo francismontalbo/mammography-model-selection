@@ -1,5 +1,17 @@
 # 🔬 Mammography model selection
 
+<p align="center">
+  <a href="https://github.com/francismontalbo/mammography-model-selection/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/release-v1.0.0-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Release v1.0.0"></a>
+  <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/RESULTS_GUIDE.md"><img src="https://img.shields.io/badge/configurations-21-2563EB?style=for-the-badge" alt="21 configurations"></a>
+  <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/DATA_ACCESS.md"><img src="https://img.shields.io/badge/datasets-3-7C3AED?style=for-the-badge" alt="3 datasets"></a>
+  <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/DATA_ACCESS.md"><img src="https://img.shields.io/badge/mammograms-2%2C301-0891B2?style=for-the-badge" alt="2,301 mammograms"></a>
+  <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/ALL_ASSET_CHECKSUMS.sha256"><img src="https://img.shields.io/badge/checksums-SHA--256-475569?style=for-the-badge" alt="SHA-256 file checksums"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/francismontalbo/mammography-model-selection/releases/tag/v1.0.0"><strong>📥 Download</strong></a> · <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/REPRODUCTION.md"><strong>🧪 Reproduce</strong></a> · <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/RESULTS_GUIDE.md"><strong>📊 Results</strong></a> · <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/DATA_ACCESS.md"><strong>📚 Data</strong></a> · <a href="https://github.com/francismontalbo/mammography-model-selection/blob/main/CITATION.cff"><strong>📝 Cite</strong></a>
+</p>
+
 We compare 21 deep learning configurations using 2,301 mammograms from CBIS-DDSM, MIAS and INbreast. Our study examines why model rankings change with performance summaries and how computational demands and explanation measures affect selection. Each dataset keeps its own prediction target.
 
 ## 📦 Get the code and results
