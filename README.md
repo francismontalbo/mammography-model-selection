@@ -14,6 +14,8 @@
 
 We compare 21 deep learning configurations using 2,301 mammograms from CBIS-DDSM, MIAS and INbreast. Our study examines why model rankings change with performance summaries and how computational demands and explanation measures affect selection. Each dataset keeps its own prediction target.
 
+These materials support research and scientific review. They are not intended for diagnosis or patient care.
+
 ## 📦 Get the code and results
 
 Download the files from [release v1.0.0](https://github.com/francismontalbo/mammography-model-selection/releases/tag/v1.0.0). Start with the [classification package](https://github.com/francismontalbo/mammography-model-selection/releases/download/v1.0.0/Supplementary_Prediction_Analysis_Reproduction.zip) for saved predictions and analysis code. The [file catalog](FILE_CATALOG.csv) lists the other packages, including dataset splits, training source and supporting analyses.
@@ -35,3 +37,5 @@ Francis Jesmar P. Montalbo and Ana Pholyn Balahadia-Mortel.
 *Deep Learning in Breast Mammography Diagnosis: A Comprehensive Empirical Analysis of Convolutional Neural Networks, Vision Transformers, Hybrids, and Multilayer Perceptron Mixers.* Manuscript under review.
 
 Use [CITATION.cff](CITATION.cff) to cite the repository with its version and access date. The release has no DOI. Existing dataset and software terms apply, as explained in [NOTICE.md](NOTICE.md). [Checksums](ALL_ASSET_CHECKSUMS.sha256) let you confirm that downloads match the published files.
+
+Questions and corrections are welcome in [GitHub issues](https://github.com/francismontalbo/mammography-model-selection/issues). Please keep patient information and restricted data out of public posts.
