@@ -38,4 +38,4 @@ Francis Jesmar P. Montalbo and Ana Pholyn Balahadia-Mortel.
 
 Use [CITATION.cff](CITATION.cff) to cite the repository with its version and access date. The release has no DOI. Existing dataset and software terms apply, as explained in [NOTICE.md](NOTICE.md). [Checksums](ALL_ASSET_CHECKSUMS.sha256) let you confirm that downloads match the published files.
 
-Questions and corrections are welcome in [GitHub issues](https://github.com/francismontalbo/mammography-model-selection/issues). Please keep patient information and restricted data out of public posts.
+Questions and corrections are welcome in [GitHub issues](https://github.com/francismontalbo/mammography-model-selection/issues). For security concerns, follow [SECURITY.md](SECURITY.md). Please keep patient information and restricted data out of public posts.

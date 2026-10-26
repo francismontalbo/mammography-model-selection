@@ -7,3 +7,17 @@ reproduced_results/
 *.pt
 *.pth
 *.safetensors
+
+# Local secrets and private research inputs
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+.secrets/
+data/raw/
+data/private/
+checkpoints/

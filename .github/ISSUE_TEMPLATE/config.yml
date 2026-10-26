@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security concern privately
+    url: https://github.com/francismontalbo/mammography-model-selection/security/advisories/new
+    about: Use this confidential channel for vulnerabilities or accidental disclosure.
+  - name: Dataset access and reuse
+    url: https://github.com/francismontalbo/mammography-model-selection/blob/main/DATA_ACCESS.md
+    about: Check the original dataset sources and their access conditions.

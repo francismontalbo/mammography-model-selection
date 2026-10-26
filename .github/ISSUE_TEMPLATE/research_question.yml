@@ -1,0 +1,36 @@
+name: Question or correction
+description: Ask about the research files or report a reproducibility or documentation issue.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the research materials. This report will be public.
+        Please omit patient information, restricted images, credentials and private workstation paths.
+        For a security concern, use [private reporting](https://github.com/francismontalbo/mammography-model-selection/security/advisories/new).
+  - type: input
+    id: release
+    attributes:
+      label: Release and file
+      description: Name the release and package or document involved.
+      placeholder: v1.0.0, package or filename
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Question or correction
+      description: Explain what needs clarification or what seems incorrect.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Steps and relevant details
+      description: If a command failed, include a sanitized command, expected result, actual result and software versions. Leave this blank for a general question.
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before posting
+      options:
+        - label: I have removed personal information, credentials and restricted data from this report.
+          required: true
