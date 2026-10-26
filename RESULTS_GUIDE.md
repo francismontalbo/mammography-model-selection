@@ -1,16 +1,16 @@
-# Reading the current results
+# Finding the results
 
-The manuscript and the release preserve the original benchmark and distinguish subsequent analyses.
+Use the package that matches the analysis you want to inspect. The later analyses preserve the original benchmark.
 
-| Question | Package and interpretation |
+| Analysis | Where to start |
 | --- | --- |
-| Primary classification | Prediction Analysis Reproduction supplies saved probabilities and the covered discrimination analyses for all configurations. CBIS-DDSM averages three single-checkpoint metrics. MIAS and INbreast use pooled ensemble probabilities. |
-| Current Table 4 decisions | CBIS Operating Point Sensitivity supplies the six later tuning-selected decision columns for all 63 original checkpoints. It does not change AUROC, AP or their primary inference. |
-| Original-rule MCC | MCC Reporting Addendum supplies the uniform zero-denominator convention and constant-prediction flags. Earlier raw exports remain historical records. Genuine zeros are retained. |
-| Aggregation and decision rules | Within Fold AUROC Sensitivity, MIAS Decision Rule Sensitivity and Explanatory Diagnostics explain differences using unchanged predictions. |
-| Computational measurements | Evidence Base and Fitted Predictor Timing distinguish standardized initialized-model profiles from the separate fitted-model timing check. |
-| Explanation evidence | Evidence Base contains localization and agreement summaries. The XAI Location Prior and Seed Pair Agreement public subsets retain results and source, with the stated spatial-input omissions. |
-| Learning-rate sensitivity | CBIS Training Sensitivity contains tuning evidence. CBIS Adjusted Test Sensitivity contains the separate post hoc test analysis. Neither replaces the primary benchmark. |
-| Precision and normalization | Precision Diagnostic and Checkpoint Precision Normalization contain the bounded fitting-data investigations. They replace no primary predictions or results and do not establish precision equivalence. |
+| Primary classification | Prediction Analysis Reproduction contains saved probabilities and covered analyses for all configurations. CBIS-DDSM averages metrics from three checkpoints. MIAS and INbreast pool ensemble probabilities. |
+| Current Table 4 decisions | CBIS Operating Point Sensitivity supplies the six decision columns using thresholds selected on tuning data for all 63 original checkpoints. AUROC, AP and their primary inference remain unchanged. |
+| Original MCC reporting | MCC Reporting Addendum applies the stated zero-denominator convention and retains constant-prediction flags. Earlier exports remain available. Genuine zeros are preserved. |
+| Aggregation and decision rules | Within Fold AUROC Sensitivity, MIAS Decision Rule Sensitivity and Explanatory Diagnostics examine the same saved predictions. |
+| Computational measurements | Evidence Base gives standardized profiles of initialized models. Fitted Predictor Timing contains the separate check using fitted models. |
+| Explanations | Evidence Base contains localization and agreement summaries. XAI Location Prior and Seed Pair Agreement add results and code, with the spatial-input omissions listed in their public subsets. |
+| Learning rate | CBIS Training Sensitivity reports tuning results. CBIS Adjusted Test Sensitivity contains the separate post hoc test analysis. Neither replaces the primary benchmark. |
+| Precision and normalization | Precision Diagnostic and Checkpoint Precision Normalization report the bounded investigations using fitting data. They change no primary predictions or results and do not establish precision equivalence. |
 
-The file catalog gives exact filenames and download links. Archive documentation identifies historical figure numbers, reporting taxonomy and supersession. Keep each endpoint and its uncertainty assumptions intact. These are retrospective internal evaluations, not evidence of clinical deployment or an overall architecture-family ranking.
+The [file catalog](FILE_CATALOG.csv) gives exact filenames and downloads. Package READMEs explain older figure numbers and reporting labels. Keep each dataset's target and uncertainty assumptions in mind. These retrospective internal comparisons do not establish clinical readiness or a general ranking of model families.
