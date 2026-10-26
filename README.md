@@ -8,7 +8,7 @@ The study compares 21 architecture and pretraining configurations using 2,301 ma
 
 ## Download and start
 
-Download the evidence archives from [release v1.0.0](https://github.com/francismontalbo/mammography-model-selection/releases/tag/v1.0.0). The [file catalog](FILE_CATALOG.csv) records each download, its scope and checksum. Large archives are release assets rather than files in the Git history. **Download ZIP** on the repository home page downloads the documentation, not the evidence assets.
+Download the evidence archives from [release v1.0.0](https://github.com/francismontalbo/mammography-model-selection/releases/tag/v1.0.0). The [file catalog](FILE_CATALOG.csv) records each evidence archive, its scope and checksum. The [complete asset checksums](ALL_ASSET_CHECKSUMS.sha256) also cover the companion notices and release metadata. Large archives are release assets rather than files in the Git history. **Download ZIP** on the repository home page downloads the documentation, not the evidence assets.
 
 1. Start with `Supplementary_Prediction_Analysis_Reproduction.zip` for saved classification probabilities and CPU analysis code.
 2. Use `Supplementary_Cohort_Derivation_Verification.zip` for eligibility, labels and recorded assignments.
