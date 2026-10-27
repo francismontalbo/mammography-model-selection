@@ -5,7 +5,7 @@ Use the package that matches the analysis you want to inspect. The later analyse
 | Analysis | Where to start |
 | --- | --- |
 | Primary classification | Prediction Analysis Reproduction contains saved probabilities and covered analyses for all configurations. CBIS-DDSM averages metrics from three checkpoints. MIAS and INbreast pool ensemble probabilities. |
-| Current Table 4 decisions | CBIS Operating Point Sensitivity supplies the six decision columns using thresholds selected on tuning data for all 63 original checkpoints. AUROC, AP and their primary inference remain unchanged. |
+| Tuning-selected CBIS-DDSM decisions | CBIS Operating Point Sensitivity supplies the six decision columns using thresholds selected on tuning data for all 63 original checkpoints. AUROC, AP and their primary inference remain unchanged. |
 | Original MCC reporting | MCC Reporting Addendum applies the stated zero-denominator convention and retains constant-prediction flags. Earlier exports remain available. Genuine zeros are preserved. |
 | Aggregation and decision rules | Within Fold AUROC Sensitivity, MIAS Decision Rule Sensitivity and Explanatory Diagnostics examine the same saved predictions. |
 | Computational measurements | Evidence Base gives standardized profiles of initialized models. Fitted Predictor Timing contains the separate check using fitted models. |
